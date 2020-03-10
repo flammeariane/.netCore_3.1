@@ -1,0 +1,11 @@
+D:\Projects\Ariane\DotNetCore\.netCore_3.1\Xplat\bin\Debug\netcoreapp3.1\Xplat.exe
+D:\Projects\Ariane\DotNetCore\.netCore_3.1\Xplat\bin\Debug\netcoreapp3.1\Xplat.deps.json
+D:\Projects\Ariane\DotNetCore\.netCore_3.1\Xplat\bin\Debug\netcoreapp3.1\Xplat.runtimeconfig.json
+D:\Projects\Ariane\DotNetCore\.netCore_3.1\Xplat\bin\Debug\netcoreapp3.1\Xplat.runtimeconfig.dev.json
+D:\Projects\Ariane\DotNetCore\.netCore_3.1\Xplat\bin\Debug\netcoreapp3.1\Xplat.dll
+D:\Projects\Ariane\DotNetCore\.netCore_3.1\Xplat\bin\Debug\netcoreapp3.1\Xplat.pdb
+D:\Projects\Ariane\DotNetCore\.netCore_3.1\Xplat\obj\Debug\netcoreapp3.1\Xplat.csprojAssemblyReference.cache
+D:\Projects\Ariane\DotNetCore\.netCore_3.1\Xplat\obj\Debug\netcoreapp3.1\Xplat.AssemblyInfoInputs.cache
+D:\Projects\Ariane\DotNetCore\.netCore_3.1\Xplat\obj\Debug\netcoreapp3.1\Xplat.AssemblyInfo.cs
+D:\Projects\Ariane\DotNetCore\.netCore_3.1\Xplat\obj\Debug\netcoreapp3.1\Xplat.dll
+D:\Projects\Ariane\DotNetCore\.netCore_3.1\Xplat\obj\Debug\netcoreapp3.1\Xplat.pdb
